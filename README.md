@@ -1,5 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on a countdown timer written in JS
+
 🌱 I’m currently learning JS
 <!--
 **Aoitide/Aoitide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
